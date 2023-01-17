@@ -86,4 +86,15 @@ CAPITULO 12
 ![image](https://user-images.githubusercontent.com/116813539/212793218-95690bc8-1142-4c47-8107-62f3e4727075.png)
 
 
+Conclusiones 
+
+* 
+
+*
+
+*
+
+Referencia bibliográfica 
+
+Libro: Principios de circuitos eléctricos – Floyd pág.92 - pág.136 
 
