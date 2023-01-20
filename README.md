@@ -9,11 +9,12 @@ Resumen y solución de ejercicios pares o impares
 
 Objetivos
 
-*
+• Estudiar la corriente de voltajes alternos 
 
-*
+• Analizar los circuitos CA cuando se aplican los voltajes asi como conocer las respectivas formulas de la onda seno 
 
-*
+• Investigar acerca de los capacitores y cuales son cada uno de ellos al igual que sus aplicaciones y como se aplican en los circuitos correspondientes a los ejercicios a realizar 
+
 
 TAREA 6: capítulos 11-12
 
@@ -88,11 +89,9 @@ CAPITULO 12
 
 Conclusiones 
 
-* 
+* El comocimiento para realizar los ejercicios planetados correspondientes a los capitulos 10-11 son de suma importancia para resolverlos de manera correcta ya que en estos capitulos se conocen nuevas formulas y maneras para resolver los circuitos.
 
-*
-
-*
+* Gracias a las nuevas formulas adquiridas asi como teoremas y metodos de solución se comprende de una mejor manera los circuitos y la teoria que se revisa a lo largo de las clases de este segundo parcial.
 
 Referencia bibliográfica 
 
